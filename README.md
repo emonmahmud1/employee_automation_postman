@@ -2,7 +2,7 @@
 
 ## About This Project
 
-This is employee api project so here create, update, screatch and deleting data.
+This is employee api project so here create, update, screatch and deleting data. This automation framework validates complete Employee Management System API workflows using Postman collections integrated with Newman CLI runner. It performs comprehensive testing across all CRUD operations (Create, Read, Update, Delete) with automated test validation and detailed report generation for quality assurance. The project ensures API reliability, performance monitoring, and regression testing by executing predefined test scenarios in an automated manner with HTML detailed reporting capabilities.
 
 ## Prerequisite
 
