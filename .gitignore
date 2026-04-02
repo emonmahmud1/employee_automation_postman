@@ -5,9 +5,7 @@ yarn.lock
 # Secrets
 .env
 
-# Newman reports/output
-Reports/
-newman/
+
 
 # Logs
 *.log
