@@ -1,6 +1,13 @@
 # Dependencies
 node_modules/
 yarn.lock
+package-lock.json
+
+# Local workspace settings
+.vscode/
+
+# Local/public assets
+public/
 
 # Secrets
 .env
