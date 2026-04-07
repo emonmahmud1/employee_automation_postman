@@ -40,10 +40,11 @@ npm i dotenv
 ## Newman Report
 
 ![Newman Run Dashboard](newman_screenShoot.png)
+![Newman Run Dashboard 2](<newman_Screenshot_2 .png>)
 
 ## Automation Video
 
-Coming Soon...
+[Watch Automation Video](automation_video.mp4)
 
 ## Author
 
