@@ -4,7 +4,6 @@ yarn.lock
 package-lock.json
 
 # Local workspace settings
-.vscode/
 
 # Local/public assets
 public/
@@ -25,3 +24,4 @@ yarn-error.log*
 temp_auto_push.bat
 temp_interactive_push.bat
 .gitignore
+branch_structure.json
