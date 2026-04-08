@@ -44,13 +44,6 @@ npm i dotenv
 
 ## Automation Video
 
-<video src="automation_video.mp4" controls width="900">
-	Your browser does not support the video tag.
-</video>
-
-[Download/Watch Video](automation_video.mp4)
-
-
 https://github.com/user-attachments/assets/edcaed1e-4491-4ed8-855a-2ac5750f7078
 
 
